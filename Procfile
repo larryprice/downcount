@@ -1,1 +1,1 @@
-web: gunicorn downcount.wsgi
+web: gunicorn hello:app

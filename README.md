@@ -1,5 +1,4 @@
-
-#Countdown#
+#downCount#
 
 Author: Larry Price
 
